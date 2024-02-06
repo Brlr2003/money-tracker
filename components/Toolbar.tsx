@@ -81,7 +81,7 @@ function ResponsiveAppBar() {
                 fontWeight={700}
                 fontSize={25}
                 marginLeft={1}>
-                T
+                B
               </Typography>
               <Typography
                 fontSize={25}
@@ -93,7 +93,7 @@ function ResponsiveAppBar() {
                   color: "#FFF",
                   textDecoration: "none",
                 }}>
-                reker
+                udget
               </Typography>
             </Button>
             <Tabs

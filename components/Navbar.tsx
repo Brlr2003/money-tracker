@@ -25,7 +25,7 @@ const Navbar = () => {
             fontWeight={700}
             fontSize={25}
             marginLeft={1}>
-            T
+            B
           </Typography>
 
           <Typography
@@ -38,7 +38,7 @@ const Navbar = () => {
               color: "#FFF",
               textDecoration: "none",
             }}>
-            reker
+            udget
           </Typography>
         </Box>
         <SignedIn>
